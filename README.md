@@ -10,4 +10,4 @@ Our solution is a simple blending of diverse pretrained BERT models.
 
 Please follow the notebook files, BTW I deleted a huge portion of intermediary files.
 
-![1546938332325](C:\Users\Sundong Kim\AppData\Roaming\Typora\typora-user-images\1546938332325.png)
+![1546938332325](./capture.png)
